@@ -2,3 +2,10 @@
 *.env
 .ipynb_checkpoints/
 __pycache__/
+.venv/
+.env
+*.env
+.ipynb_checkpoints/
+__pycache__/
+*.db
+*.ipynb
